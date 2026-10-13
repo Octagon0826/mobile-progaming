@@ -1,0 +1,10 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Flutter cache dan hasil build
+**/.dart_tool/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
